@@ -1,4 +1,4 @@
-<img width="726" height="175" alt="image" src="https://github.com/user-attachments/assets/62ad38d3-7861-41db-ba54-34208125ce71" /><img width="9397" height="115" alt="image" src="https://github.com/user-attachments/assets/0218430f-2d89-4774-a0cf-1440a40202a6" /># Campus-Carry
+# Campus-Carry
 CampusCarry is a student-to-student delivery platform that enables secure and affordable item transportation within and across campuses. Built using React.js, Node.js, Express.js, and MongoDB, it provides request management, verification, tracking, and payment features.
 # Introduction
 CampusCarry is a student-to-student delivery platform designed to help students send and receive items conveniently within and across campuses. The system connects students who need delivery services with students traveling to the same destination. It provides features such as request creation, student verification, delivery tracking, secure payment, and rating systems to ensure a reliable and cost-effective delivery experience.
